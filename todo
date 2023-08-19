@@ -1,0 +1,9 @@
+change types to _t
+make a proper directory structure
+everything in c file is also in header
+unit test
+change member function to use this as first parameter name and be named classname_methodname()
+change all uint8_t which represent color to color type
+and change the param name from val to color
+reorder functions
+make sure function order matches in c and h
